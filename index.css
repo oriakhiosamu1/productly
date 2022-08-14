@@ -1,0 +1,173 @@
+body{
+    /* padding: 0px 100px 0px 100px; */
+    width: 80%;
+    margin: auto;
+}
+
+.btn-btn-warning{
+    color: #FFFEFE;
+    background-color: #FF9900;
+    padding: 15.008px 41.008px;
+    border: 0 none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.container-fluid{
+    padding: 16px;
+    margin-bottom: 4rem;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; */
+}
+
+.btn-btn-outline-success{
+    color: #173a56;
+    padding: 11.008px 25.008px;
+    border: 1px solid #bcd0e5;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.watch-video{
+    background-color: white;
+    color: #FF9900;
+    font-weight: bold;
+    border: 0 none;
+    margin-left: 20px;
+}
+
+.watch-video a{
+    color: #FF9900;
+}
+
+h1{
+    color: #2f281e;
+    margin: 0px 0px 28.8px;
+    font-size: 2.88651rem;
+    margin-bottom: 1.8rem;
+    font-weight: bold;
+}
+
+p{
+    margin-bottom: 3rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #544837;
+}
+.first-div-paragraph{
+    margin-bottom: 100px;
+}
+
+.second-div{
+    margin-top: 200px;
+}
+
+.second-div img{
+    width: 75px;
+}
+
+.second-div h5{
+    color: #2F281E;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.second-div h1{
+    text-align: center
+}
+
+.card{
+    border: 0 none;
+}
+
+.paragraph-btn{
+    text-align: center;
+}
+
+.third-div{
+    margin-top: 150px;
+}
+
+.third-div h5, .fifth-div h5{
+    color: #544837;
+    font-size: 1.125rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.third-div h1,.fourth-div h1, .fifth-div h1, .sixth-div h1{
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+    color: #2F281E;
+}
+
+.third-div p, .fourth-div p, .fifth-div p{
+    color: #544837 ;
+    font-weight: 500;
+    margin-bottom: 1.8rem;
+}
+
+.third-div h4, .fourth-div h4, .fifth-div h4{
+    font-weight: bold;
+    font-size: 1.125rem;
+    line-height: 1.2;
+    color: #2F281E;
+}
+
+.fourth-div{
+    margin-top: 150px;
+}
+
+.fifth-div{
+    margin-top: 150px;
+}
+
+.sixth-div{
+    margin: 200px auto;
+    text-align: center;
+}
+
+.sixth-div p{
+    color: #567592;
+    font-weight: 500px ;
+    margin-bottom: 2.5rem;
+}
+
+.card h3{
+    font-weight: bold;
+    margin-top: 0;
+    color: #2F281E;
+    font-size: 1.5rem;
+}
+
+.eight-div{
+    margin-top: 250px;
+    border-top: 1px solid rgb(236, 235, 235);
+    padding-top: 80px;
+}
+
+.eight-div p{
+    margin-bottom: 1.8rem;
+    font-size: 1.26563rem;
+    font-weight: 700px;
+}
+
+.eight-div ul{
+    list-style: none;
+}
+
+.ul a{
+     color: #544837;
+     text-decoration: none;
+}
+
+.ul a:hover{
+    text-decoration: underline;
+}
+
+.nineth-div{
+    margin-top: 50px;
+}
